@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" alt="Zayoxy's Github stats" src="https://github-readme-stats.vercel.app/api?username=Zayoxy&show_icons=true&theme=radical&count_private=true"/>
+        <img align="center" alt="Zayoxy's Github stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayoxy&show_icons=true&theme=radical&count_private=true"/> <!-- https://github.com/anuraghazra/github-readme-stats/issues/2380#issuecomment-1380916130 -->
     </a>
 </p>
 
