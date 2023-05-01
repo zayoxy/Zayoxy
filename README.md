@@ -2,7 +2,10 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" alt="Zayoxy's Github stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zayoxy&show_icons=true&theme=radical&count_private=true"/> <!-- https://github.com/anuraghazra/github-readme-stats/issues/2380#issuecomment-1380916130 -->
+        <img alt="Zayoxy's Github stats" src="https://github-readme-stats.vercel.app/api?username=Zayoxy&show_icons=true&theme=tokyonight&count_private=true&line_height=40"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Zayoxy's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayoxy&theme=tokyonight"/>
     </a>
 </p>
 
